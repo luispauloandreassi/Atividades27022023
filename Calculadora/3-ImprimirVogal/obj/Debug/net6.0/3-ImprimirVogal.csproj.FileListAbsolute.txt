@@ -1,0 +1,15 @@
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\bin\Debug\net6.0\3-ImprimirVogal.exe
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\bin\Debug\net6.0\3-ImprimirVogal.deps.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\bin\Debug\net6.0\3-ImprimirVogal.runtimeconfig.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\bin\Debug\net6.0\3-ImprimirVogal.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\bin\Debug\net6.0\3-ImprimirVogal.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.csproj.AssemblyReference.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.AssemblyInfoInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.AssemblyInfo.cs
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.csproj.CoreCompileInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\refint\3-ImprimirVogal.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\3-ImprimirVogal.genruntimeconfig.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\3-ImprimirVogal\obj\Debug\net6.0\ref\3-ImprimirVogal.dll

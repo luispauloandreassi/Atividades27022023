@@ -1,0 +1,15 @@
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\bin\Debug\net6.0\4-ImprimirConsoante.exe
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.csproj.AssemblyReference.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.AssemblyInfoInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.AssemblyInfo.cs
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.csproj.CoreCompileInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\refint\4-ImprimirConsoante.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\bin\Debug\net6.0\4-ImprimirConsoante.deps.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\bin\Debug\net6.0\4-ImprimirConsoante.runtimeconfig.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\bin\Debug\net6.0\4-ImprimirConsoante.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\bin\Debug\net6.0\4-ImprimirConsoante.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\4-ImprimirConsoante.genruntimeconfig.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Atividades27.02.2023\Calculadora\4-ImprimirConsoante\obj\Debug\net6.0\ref\4-ImprimirConsoante.dll

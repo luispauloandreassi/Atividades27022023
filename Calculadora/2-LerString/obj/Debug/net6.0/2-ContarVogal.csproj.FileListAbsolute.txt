@@ -1,0 +1,15 @@
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\bin\Debug\net6.0\2-ContarVogal.exe
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\bin\Debug\net6.0\2-ContarVogal.deps.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\bin\Debug\net6.0\2-ContarVogal.runtimeconfig.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\bin\Debug\net6.0\2-ContarVogal.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\bin\Debug\net6.0\2-ContarVogal.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.csproj.AssemblyReference.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.AssemblyInfoInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.AssemblyInfo.cs
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.csproj.CoreCompileInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\refint\2-ContarVogal.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\2-ContarVogal.genruntimeconfig.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\2-LerString\obj\Debug\net6.0\ref\2-ContarVogal.dll

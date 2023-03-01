@@ -1,0 +1,15 @@
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\1-Calculadora.exe
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\1-Calculadora.deps.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\1-Calculadora.runtimeconfig.json
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\1-Calculadora.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\1-Calculadora.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.csproj.AssemblyReference.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.AssemblyInfoInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.AssemblyInfo.cs
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\refint\1-Calculadora.dll
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.pdb
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\1-Calculadora.genruntimeconfig.cache
+C:\Users\Luana M F Andreassi\Desktop\ADS\2023-5ºPeriodo\Programação IV\Aula.23.02.2023\Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\ref\1-Calculadora.dll
